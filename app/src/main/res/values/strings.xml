@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="toast_placeholder">Hello, it\'s me. I\'ve wondering...</string>
+</resources>
